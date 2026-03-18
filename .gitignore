@@ -1,7 +1,0 @@
-*.o
-*.a
-/mtar
-
-# macOS system files
-.DS_Store
-._*
